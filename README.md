@@ -1,36 +1,34 @@
 <div align="center">
 
-<!-- Elegant Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=180&section=header&text=Aditeaa&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Crafting%20Digital%20Experiences%20with%20Elegance&descAlignY=55&descSize=16" width="100%"/>
 
 <br/>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
 </div>
 
-<br/>
+---
 
 ## ✦ About Me
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-Hey there! I'm **Aditeaa**, a passionate **Web Developer** from India who loves blending code, creativity, and calm aesthetics into seamless digital experiences.  
-I’m currently building full-stack projects using **React, Node.js, and MySQL** — focused on creating functional yet visually refined web applications.
+Hey there! I’m **Aditi**, a passionate **Full Stack Web Developer** from India who loves blending design, detail, and logic to create refined, meaningful digital experiences.  
 
-I believe the web should feel **beautiful, balanced, and intuitive** — where every interaction tells a story.
+I build full-stack projects using **React, Node.js, and MySQL**, focusing on performance, usability, and a touch of elegance. I believe every interface should not just *work well* — it should *feel good* to use.
 
-<br/>
+> ✧ “I don’t just build websites — I craft experiences that tell a story.” ✧
 
-**Currently exploring:**
-- Full-stack architecture with Express.js & MySQL  
-- Elegant UI/UX design systems  
-- Building scalable and performance-focused web apps  
+---
 
-**Beyond code:**
-- Experimenting with layouts in **Figma**  
-- Diving into minimalist typography and design  
-- Perfecting the art of aesthetic frontends 🌷
+**Currently building & exploring:**
+- ⚙️ Scalable full-stack apps with React, Node, Express & MySQL  
+- 🎨 Consistent design systems with TailwindCSS & Figma  
+- ⚡ Real-world business tools & dashboards that actually solve problems  
+
+**Beyond the code:**
+- Designing thoughtful UI layouts in **Figma**  
+- Learning SEO & brand presentation for small businesses  
+- Making chai, playlists, and perfect color palettes 🌷  
 
 <br clear="right"/>
 
@@ -38,7 +36,7 @@ I believe the web should feel **beautiful, balanced, and intuitive** — where e
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
-<br/>
+---
 
 ## ✦ Connect With Me
 
@@ -51,13 +49,7 @@ I believe the web should feel **beautiful, balanced, and intuitive** — where e
 
 </div>
 
-<br/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
-<br/>
+---
 
 ## ✦ Tech Stack
 
@@ -85,13 +77,7 @@ I believe the web should feel **beautiful, balanced, and intuitive** — where e
 
 </div>
 
-<br/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
-<br/>
+---
 
 ## ✦ Featured Projects
 
@@ -114,7 +100,7 @@ I believe the web should feel **beautiful, balanced, and intuitive** — where e
 <img src="https://img.shields.io/badge/Live-f9dde7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=d4a5c9"/>
 </a>
 </p>
-<p><strong>React, Node.js, MySQL</strong> — A complete CRM solution for managing leads, clients, quotations & projects efficiently.</p>
+<p><strong>React, Node.js, MySQL</strong> — A complete CRM solution designed for businesses to manage leads, quotations, and clients seamlessly.</p>
 </div>
 </td>
 
@@ -133,7 +119,7 @@ I believe the web should feel **beautiful, balanced, and intuitive** — where e
 <img src="https://img.shields.io/badge/Live-f9dde7?style=for-the-badge&logo=instagram&logoColor=white&labelColor=d4a5c9"/>
 </a>
 </p>
-<p><strong>React, TailwindCSS</strong> — A creative bouquet studio website showcasing custom-made artificial floral art.</p>
+<p><strong>React, TailwindCSS</strong> — A creative studio website for custom-made ribbon rose bouquets with soft visuals and modern UX.</p>
 </div>
 </td>
 </tr>
@@ -146,12 +132,7 @@ I believe the web should feel **beautiful, balanced, and intuitive** — where e
 <img src="https://raw.githubusercontent.com/AditiKhanpara/assets/main/aems-preview.png" alt="AEMS Project" width="100%"/>
 </a>
 <br/><br/>
-<p>
-<a href="https://github.com/AditiKhanpara/AEMS" target="_blank">
-<img src="https://img.shields.io/badge/Code-f9dde7?style=for-the-badge&logo=github&logoColor=white&labelColor=e8b4c8"/>
-</a>
-</p>
-<p><strong>React, Node.js, MySQL, Bootstrap</strong> — A responsive admin-employee management dashboard built for real-world organizational use.</p>
+<p><strong>React, Node.js, MySQL, Bootstrap</strong> — A responsive dashboard for employee management and data tracking, built from scratch for enterprise use.</p>
 </div>
 </td>
 
@@ -162,12 +143,7 @@ I believe the web should feel **beautiful, balanced, and intuitive** — where e
 <img src="https://raw.githubusercontent.com/AditiKhanpara/assets/main/chaiwala-preview.png" alt="ChaiWala Project" width="100%"/>
 </a>
 <br/><br/>
-<p>
-<a href="https://github.com/AditiKhanpara/ChaiWala" target="_blank">
-<img src="https://img.shields.io/badge/Code-f9dde7?style=for-the-badge&logo=github&logoColor=white&labelColor=e8b4c8"/>
-</a>  
-</p>
-<p><strong>React, Express.js, MySQL</strong> — A fast, user-friendly system for office tea/coffee ordering & monthly billing.</p>
+<p><strong>React, Express.js, MySQL</strong> — A quick ordering and monthly billing app built for office tea stalls to simplify daily operations.</p>
 </div>
 </td>
 </tr>
@@ -175,13 +151,7 @@ I believe the web should feel **beautiful, balanced, and intuitive** — where e
 
 </div>
 
-<br/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
-<br/>
+---
 
 ## ✦ GitHub Analytics
 
@@ -189,43 +159,28 @@ I believe the web should feel **beautiful, balanced, and intuitive** — where e
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AditiKhanpara&show_icons=true&theme=rose_pine&hide_border=true&bg_color=0d1117&title_color=e8b4c8&icon_color=d4a5c9&text_color=f9dde7" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AditiKhanpara&theme=rose_pine&hide_border=true&background=0d1117&ring=e8b4c8&fire=d4a5c9&currStreakLabel=f9dde7&sideLabels=f9dde7&currStreakNum=f9dde7&dates=f9dde7&sideNums=f9dde7" alt="GitHub Streak"/>
-
 <br/>
-
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiKhanpara&layout=compact&theme=rose_pine&hide_border=true&bg_color=0d1117&title_color=e8b4c8&text_color=f9dde7" alt="Top Languages"/>
 
 </div>
 
-<br/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
-<br/>
+---
 
 ## ✦ Words to Code By
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rose_pine&quote=Design%20isn’t%20what%20it%20looks%20like%20and%20feels%20like.%20Design%20is%20how%20it%20works.&author=Steve%20Jobs&border=true&borderColor=e8b4c8&textColor=f9dde7&bgColor=0d1117" alt="Developer Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rose_pine&quote=Design%20isn’t%20what%20it%20looks%20like.%20Design%20is%20how%20it%20works.&author=Steve%20Jobs&border=true&borderColor=e8b4c8&textColor=f9dde7&bgColor=0d1117" alt="Developer Quote"/>
 
 </div>
 
-<br/>
-<br/>
+---
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer" width="100%"/>
 
-<br/>
-<br/>
-
+<br/><br/>
 ![Visitor Count](https://profile-counter.glitch.me/AditiKhanpara/count.svg)
-
 <br/>
 
 **Made with 💖 by Aditeaa**  
