@@ -1,115 +1,223 @@
-<!-- 🌸 Soft Aesthetic GitHub Profile README for Aditeaa -->
-
-<h1 align="center">🌷 Hey there, I'm <span style="color:#ffb6c1;">Aditeaa</span> 💻</h1>
-
-<p align="center">
-  <em>✨ A creative Web Developer who blends design and logic into elegant digital art ✨</em><br/>
-  <em>💖 Turning ideas into interactive, beautiful, and functional web experiences 💖</em>
-</p>
-
----
-
 <div align="center">
 
-🌸 *From India • Web Developer • Dreamer • Code Artist* 🌸
+<!-- Elegant Header with subtle animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=180&section=header&text=Aditeaa&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Crafting%20Digital%20Experiences%20with%20Elegance&descAlignY=55&descSize=16" width="100%"/>
+
+<br/>
+
+<!-- Elegant divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
----
+<br/>
 
-### 🌐 Socials
+## ✦ About Me
 
-<p align="center">
-  <a href="https://github.com/AditiKhanpara">
-    <img src="https://img.shields.io/badge/GitHub-%23F6E7E3.svg?style=for-the-badge&logo=github&logoColor=black" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-%23FFC8DD.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Instagram-%23FFB6B9.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-%23F5CAC3.svg?style=for-the-badge&logo=google-chrome&logoColor=black" />
-  </a>
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+Hello, I'm **Aditeaa** — a web developer and student based in India, passionate about creating **soft minimalist interfaces** and aesthetic digital experiences that feel both functional and beautiful.
+
+I believe in the intersection of **art and code**, where every pixel matters and every interaction tells a story. My work focuses on building web experiences that are not just visually stunning, but intuitive and meaningful.
+
+<br/>
+
+**Currently exploring:**
+- Full-stack development with React, Node.js & MySQL
+- Modern UI/UX patterns and micro-interactions
+- Building elegant, responsive web applications
+
+**When I'm not coding:**
+- Designing in Figma
+- Exploring visual aesthetics and typography
+- Learning new ways to make the web more beautiful
+
+<br clear="right"/>
+
+<div align="center">
+
+<!-- Elegant divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+</div>
+
+<br/>
+
+## ✦ Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-AditiKhanpara-f9dde7?style=for-the-badge&logo=github&logoColor=white&labelColor=e8b4c8)](https://github.com/AditiKhanpara)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-f9dde7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=d4a5c9)](https://linkedin.com/in/yourprofile)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-f9dde7?style=for-the-badge&logo=instagram&logoColor=white&labelColor=e8b4c8)](https://instagram.com/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-f9dde7?style=for-the-badge&logo=safari&logoColor=white&labelColor=d4a5c9)](https://yourportfolio.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- Elegant divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+</div>
+
+<br/>
+
+## ✦ Tech Stack
+
+<div align="center">
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-f9dde7?style=for-the-badge&logo=html5&logoColor=white&labelColor=e8b4c8)
+![CSS3](https://img.shields.io/badge/CSS3-f9dde7?style=for-the-badge&logo=css3&logoColor=white&labelColor=d4a5c9)
+![JavaScript](https://img.shields.io/badge/JavaScript-f9dde7?style=for-the-badge&logo=javascript&logoColor=white&labelColor=e8b4c8)
+![React](https://img.shields.io/badge/React-f9dde7?style=for-the-badge&logo=react&logoColor=white&labelColor=d4a5c9)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-f9dde7?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=e8b4c8)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-f9dde7?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=d4a5c9)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-f9dde7?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=e8b4c8)
+![Express.js](https://img.shields.io/badge/Express.js-f9dde7?style=for-the-badge&logo=express&logoColor=white&labelColor=d4a5c9)
+![MySQL](https://img.shields.io/badge/MySQL-f9dde7?style=for-the-badge&logo=mysql&logoColor=white&labelColor=e8b4c8)
+
+### Tools & Platforms
+![Vite](https://img.shields.io/badge/Vite-f9dde7?style=for-the-badge&logo=vite&logoColor=white&labelColor=d4a5c9)
+![Figma](https://img.shields.io/badge/Figma-f9dde7?style=for-the-badge&logo=figma&logoColor=white&labelColor=e8b4c8)
+![Postman](https://img.shields.io/badge/Postman-f9dde7?style=for-the-badge&logo=postman&logoColor=white&labelColor=d4a5c9)
+![Git](https://img.shields.io/badge/Git-f9dde7?style=for-the-badge&logo=git&logoColor=white&labelColor=e8b4c8)
+![VSCode](https://img.shields.io/badge/VSCode-f9dde7?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=d4a5c9)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- Elegant divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+</div>
+
+<br/>
+
+## ✦ Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Project Name</h3>
+<div align="center">  
+<a href="https://github.com/AditiKhanpara/project-repo" target="_blank">
+<img src="https://via.placeholder.com/400x200/e8b4c8/ffffff?text=Project+Preview" alt="Project 1" width="100%"/>
+</a>
+<br/>
+<br/>
+<p>
+<a href="https://github.com/AditiKhanpara/project-repo" target="_blank">
+<img src="https://img.shields.io/badge/Code-f9dde7?style=for-the-badge&logo=github&logoColor=white&labelColor=e8b4c8"/>
+</a>  
+<a href="https://your-demo-link.com" target="_blank">
+<img src="https://img.shields.io/badge/Live-f9dde7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=d4a5c9"/>
+</a>
 </p>
+<p><strong>React, Node.js, MySQL</strong> - A beautiful full-stack application showcasing modern web development.</p>
+</div>
+</td>
 
----
-
-### 💻 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-FFD6E0?style=flat&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-FFCCD5?style=flat&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/JavaScript-FFE5EC?style=flat&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-FDE2E4?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-FFD6D6?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-FFC8DD?style=flat&logo=express&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-FFE5D9?style=flat&logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/Bootstrap-FFDDE2?style=flat&logo=bootstrap&logoColor=7952B3" />
-  <img src="https://img.shields.io/badge/TailwindCSS-FFE5E5?style=flat&logo=tailwind-css&logoColor=38B2AC" />
-  <img src="https://img.shields.io/badge/Vite-FFE5F1?style=flat&logo=vite&logoColor=646CFF" />
-  <img src="https://img.shields.io/badge/Figma-FFD6E0?style=flat&logo=figma&logoColor=F24E1E" />
-  <img src="https://img.shields.io/badge/Postman-FFE5D9?style=flat&logo=postman&logoColor=FF6C37" />
-  <img src="https://img.shields.io/badge/Git-FFD6D6?style=flat&logo=git&logoColor=F05033" />
-  <img src="https://img.shields.io/badge/VSCode-FFE5E5?style=flat&logo=visual-studio-code&logoColor=007ACC" />
+<td width="50%">
+<h3 align="center">Project Name</h3>
+<div align="center">  
+<a href="https://github.com/AditiKhanpara/project-repo" target="_blank">
+<img src="https://via.placeholder.com/400x200/d4a5c9/ffffff?text=Project+Preview" alt="Project 2" width="100%"/>
+</a>
+<br/>
+<br/>
+<p>
+<a href="https://github.com/AditiKhanpara/project-repo" target="_blank">
+<img src="https://img.shields.io/badge/Code-f9dde7?style=for-the-badge&logo=github&logoColor=white&labelColor=e8b4c8"/>
+</a>  
+<a href="https://your-demo-link.com" target="_blank">
+<img src="https://img.shields.io/badge/Live-f9dde7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=d4a5c9"/>
+</a>
 </p>
+<p><strong>React, TailwindCSS</strong> - An elegant frontend showcase with smooth animations and minimalist design.</p>
+</div>
+</td>
+</tr>
+</table>
 
----
+</div>
 
-### 🪞 About Me
+<br/>
 
-> 🌸 “Design is the silent ambassador of your brand.”  
-> I love creating meaningful, modern web apps that *look beautiful and feel effortless.*
+<div align="center">
 
-💭 Currently learning **Node.js + MySQL (Full Stack)**  
-🎨 Passionate about **UI/UX and Frontend Magic**  
-☕ Lives on coffee, color palettes, and console.logs.  
-🌷 Believer in aesthetics, logic, and clean code.
+<!-- Elegant divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
----
+</div>
 
-### 📊 GitHub Stats
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AditiKhanpara&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AditiKhanpara&theme=rose_pine&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiKhanpara&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
+## ✦ GitHub Analytics
 
----
+<div align="center">
 
-### 🏆 GitHub Trophies
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AditiKhanpara&show_icons=true&theme=rose_pine&hide_border=true&bg_color=0d1117&title_color=e8b4c8&icon_color=d4a5c9&text_color=f9dde7" alt="GitHub Stats"/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AditiKhanpara&theme=rose_pine&no-frame=false&no-bg=true&margin-w=6" />
-</p>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AditiKhanpara&theme=rose_pine&hide_border=true&background=0d1117&ring=e8b4c8&fire=d4a5c9&currStreakLabel=f9dde7&sideLabels=f9dde7&currStreakNum=f9dde7&dates=f9dde7&sideNums=f9dde7" alt="GitHub Streak"/>
 
----
+<br/>
 
-### ✨ Random Dev Quote
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiKhanpara&layout=compact&theme=rose_pine&hide_border=true&bg_color=0d1117&title_color=e8b4c8&text_color=f9dde7" alt="Top Languages"/>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rose_pine" />
-</p>
+</div>
 
----
+<br/>
 
-### 🌸 Let’s Connect!
+<div align="center">
 
-<p align="center">
-  <em>“I build with heart, design with soul, and code with calm.”</em><br/>
-  💌 Let’s create something beautiful together!
-</p>
+<!-- Elegant divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AditiKhanpara&icon=6&color=11" />
-</p>
+</div>
 
----
+<br/>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="wave"/>
-  <br/>
-  <em>Made with 💖 by <b>Aditeaa</b></em>
-</p>
+## ✦ Words to Code By
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Design%20is%20not%20just%20what%20it%20looks%20like%20and%20feels%20like.%20Design%20is%20how%20it%20works.&author=Steve%20Jobs&border=true&borderColor=e8b4c8&textColor=f9dde7&bgColor=0d1117&animation=grow_out_in" alt="Developer Quote"/>
+
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+
+<!-- Elegant divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+<br/>
+<br/>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer" width="100%"/>
+
+<br/>
+
+![Visitor Count](https://profile-counter.glitch.me/AditiKhanpara/count.svg)
+
+<br/>
+
+**Made with 💖 by Aditeaa**
+
+<sub>✦ Crafting beautiful experiences, one commit at a time ✦</sub>
+
+</div>
